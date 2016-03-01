@@ -1,0 +1,14 @@
+layout_spectrum: 0.6379929
+typography_spectrum: 1
+color:
+  saturation: 0.2538344
+  lightness: 0.2298865
+  brandStrength: 0.7859669
+  rhythmicContrast: 0.624556
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Theo Huibers
