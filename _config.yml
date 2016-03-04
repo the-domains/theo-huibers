@@ -1,26 +1,26 @@
-color:
-  saturation: 0.2538344
-  brandStrength: 0.7859669
-  rhythmicContrast: 0.624556
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.2298865
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.6379929
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.7107926
+  brandStrength: 0.7859669
+  lightness: 0.5016863
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  rhythmicContrast: 0.2183811
 typography_spectrum: 1
+layout_spectrum: 0.56914
 name: Theo Huibers
