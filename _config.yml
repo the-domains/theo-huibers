@@ -1,3 +1,7 @@
+name: Theo Huibers
+favicon: null
+layout_spectrum: 0.56914
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: "Theo Huibers' website"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7107926
-  brandStrength: 0.7859669
-  lightness: 0.5016863
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.7859669
+  lightness: 0.5016863
+  saturation: 0.7107926
   rhythmicContrast: 0.2183811
-typography_spectrum: 1
-layout_spectrum: 0.56914
-name: Theo Huibers
+purpose: []
