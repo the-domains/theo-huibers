@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Theo Huibers' website"
-datePublished: '2016-04-16T15:13:45.841Z'
-dateModified: '2016-04-16T15:13:15.015Z'
+datePublished: '2016-04-16T15:13:08.958Z'
+dateModified: '2016-04-16T15:12:50.234Z'
 title: ''
 author: []
-sourcePath: _posts/2016-04-16-theo-huibers-website.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-04-16-theo-huibers-website.md
+published: true
 url: theo-huibers-website/index.html
 _type: Article
 
